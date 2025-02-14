@@ -58,6 +58,11 @@ let soundBarsLottie = bodymovin.loadAnimation({
 
 let trackList = [
   {
+    name: "Love Story-Piano",
+    artist: "Watson",
+    path: "./music/lovestory.mp3",
+  },
+  {
     name: "Dandelions",
     artist: "Ruth B.",
     path: "./music/dandelions.mp3",
@@ -68,14 +73,19 @@ let trackList = [
     path: "./music/diewithasmile.mp3",
   },
   {
-    name: "Golden Hour",
-    artist: "Jvke",
-    path: "./music/goldenhour.mp3",
-  },
-  {
     name: "Blue",
     artist: "Yung Kai",
     path: "./music/blue.mp3",
+  },
+  {
+    name: "Pehle Bhi Main-Piano",
+    artist: "Watson",
+    path: "./music/pehlebhimain.mp3",
+  },
+  {
+    name: "Golden Hour",
+    artist: "Jvke",
+    path: "./music/goldenhour.mp3",
   },
 ];
 
